@@ -1,7 +1,6 @@
 package main
 
-import "leave-order/route"
-
+import "sample-go/route"
 
 func main() {
 	route.Process(":8081")
